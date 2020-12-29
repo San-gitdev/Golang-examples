@@ -1,10 +1,10 @@
 package main
 
+//import "fmt"
 
 func main() {
-	cards := deck{newCard(), "Ace of Diamonds"}
-	cards = append(cards, "Five of Spade")
-	cards.print()
+	cards:=newDeckFromFile("my_cards")
+cards.print()
 }
 
 func newCard() string {
