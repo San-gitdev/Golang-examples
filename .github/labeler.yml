@@ -3,3 +3,15 @@ HelloWorld:
 
 Cards:
   - 'Cards/*'
+
+Structs:
+  -'Structs/*'
+
+Maps:
+  -'Maps/*'
+
+Interfaces:
+  -'Interfaces/*'
+
+Chan_Routines:
+  -'Chan_Routines/*'
