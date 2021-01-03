@@ -1,4 +1,4 @@
-package main
+[package main
 
 import "fmt"
 
@@ -29,3 +29,4 @@ func (englishBot) getGreeting() string {
 func (spanishBot) getGreeting() string {
 	return "Hola!"
 }
+]
