@@ -11,3 +11,4 @@ Following assignments done so far:
 4) Structs - For sample programs on structs
 5) Maps - For sample program on Maps
 6) Interfaces - For sample programs on Interfaces
+7) GoRoutines and Channels - Sample programs on basics of Goroutines and channels
