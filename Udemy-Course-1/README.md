@@ -1,5 +1,4 @@
 # Golang-examples
- Repo for storing hands-on activities on Golang
 
 Currently working on the examples/assignments based on Udemy Class: https://www.udemy.com/course/go-the-complete-developers-guide
 
